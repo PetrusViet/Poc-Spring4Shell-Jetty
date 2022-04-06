@@ -2,7 +2,7 @@
 Poc of Spring4Shell in Jetty serrver
 
 1. Step 1
-- create a simple http server containing shell.jsp file
+- Create a simple http server containing shell.jsp file in the hacker server
 3. Step 2
 - Send this payload to the victim server:
 ```
