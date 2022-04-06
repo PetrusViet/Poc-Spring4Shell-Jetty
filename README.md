@@ -1,5 +1,5 @@
 # Poc-Spring4Shell-Jetty
-Poc of Spring4Shell in Jetty serrver
+Poc of CVE-2022-22965 (Spring4Shell) in Jetty serrver
 
 1. Step 1
 - Create a simple http server containing shell.jsp file in the hacker server
